@@ -38,7 +38,7 @@
 
 *这是一个图床软件*
 
-1.先在github上下载一个PicGo（地址：https://github.com/Molunerfinn/PicGo/releases）
+1.先在github上下载一个PicGo（地址：https://github.com/Molunerfinn/PicGo/releases ）
 
 ![image-20210207131626629](https://gitee.com/ruomengawa/pic-go/raw/master/img/20210207131626.png)
 
